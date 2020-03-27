@@ -1,0 +1,10 @@
+1.accept n elementsand print it reverse.
+2.avg of n numbers
+3.greater than average
+4.binary equivalent of decimal
+5.octal equivalent of decimal
+6.largest of n numbers
+7.smallest of n numbers
+8.fibonacci series in reverse
+9.linear search
+10.sum of two arrarys

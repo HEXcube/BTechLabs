@@ -1,0 +1,7 @@
+                    Assignment 1
+1.To find out whether a given number is prime or not.
+2.To find out whether a given number is odd or even.
+3.Convert temperature from celsius to fahrenheit.
+4.To find the fibonacci numbers upto the given limit.
+5.To accept an array and perform insert and delete
+  array operations on it.

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ insertFront(int)
+comment1.params=data
+comment1.target=void\ insertRear(int)
+comment2.params=
+comment2.target=void\ insertPos()
+comment3.params=
+comment3.target=void\ displayFrontToRear()
+comment4.params=
+comment4.target=void\ displayRearToFront()
+comment5.params=
+comment5.target=void\ deleteFront()
+comment6.params=
+comment6.target=void\ deleteRear()
+comment6.text=\r\n\ Method\ deleteLast\r\n\ As\ Doubly\ Linked\ List\ is\ symmetric\ about\ both\ ends,\r\n\ replacing\ head\ with\ tail\ in\ deleteFront\ will\ produce\ deleteRear\r\n
+comment7.params=
+comment7.target=void\ deletePos()
+numComments=8

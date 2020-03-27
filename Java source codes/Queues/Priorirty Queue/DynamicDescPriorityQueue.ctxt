@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ enQueue(PrioNode)
+comment0.text=\r\n\ Method\ enQueue\r\n\ This\ method\ is\ performs\ descending\ sorted\ insertion\r\n\r\n\ @param\ temp-\ the\ node\ to\ be\ enQueued\r\n
+numComments=1

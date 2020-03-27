@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ createList(int)
+comment0.text=\r\n\ Method\ createList\r\n\ resets\ the\ linked\ list\ with\ 1\ new\ node\r\n\r\n\ @param\ data\ -\ content\ of\ new\ node\r\n
+comment1.params=ref\ data
+comment1.target=void\ insertAfter(Node,\ int)
+comment1.text=\r\n\ Method\ insertAt\r\n\ inserts\ a\ node\ at\ the\ given\ reference\r\n\r\n\ @param\ ref\ -\ reference\ of\ the\ node\ to\ which\ new\ node\ is\ to\ be\ linked\r\n
+comment10.params=
+comment10.target=void\ deletePos()
+comment2.params=data
+comment2.target=void\ insertFront(int)
+comment3.params=data
+comment3.target=void\ insertRear(int)
+comment4.params=
+comment4.target=void\ insertPos()
+comment5.params=pos\ data
+comment5.target=void\ insertPos(int,\ int)
+comment6.params=
+comment6.target=void\ displayList()
+comment7.params=
+comment7.target=void\ deleteBasic()
+comment7.text=\r\n\ Method\ deleteBasic\r\n\ handles\ deletion\ from\ 1\ node\ and\ empty\ lists\r\n
+comment8.params=
+comment8.target=void\ deleteFront()
+comment9.params=
+comment9.target=void\ deleteRear()
+numComments=11

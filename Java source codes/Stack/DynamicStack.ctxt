@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ push(int)
+comment0.text=\r\n\ Method\ push\r\n\ This\ method\ is\ basically\ insertFirst()\r\n\ @param\ data-\ the\ data\ to\ be\ pushed\ to\ stack\r\n
+comment1.params=
+comment1.target=void\ pop()
+comment1.text=\r\n\ Method\ pop\r\n\ This\ method\ is\ basically\ deleteFirst()\r\n
+comment2.params=
+comment2.target=void\ displayStack()
+numComments=3

@@ -1,0 +1,14 @@
+			Assignment 10
+			 2D Arrays
+
+1.Program to find the trace and norm of a given square matrix of size MxN.
+2.Find the sum of column elements and row elements of a given matrix.
+3.Program to accept a square matrix and determine whether it is a
+ a)Square matrix
+ b)Unit matrix
+ c)Symmetric matrix
+ d)Sparse matrix
+4.Program to multiply 2 matrices.
+5.Find the elements which is largest in the column and smallest in the
+  row of matrix.
+6.Find the transpose of a given matrix.

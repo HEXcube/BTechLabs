@@ -1,0 +1,8 @@
+            Assignment 7
+    Generic Programming using Templates
+1.Function to swap two data items.
+2.Function to find the greater of two data items
+3.Overload templates using function Display.
+4.Familiarize class templates using different data types.
+5.Create a template for bubble sort.
+6.Create a class Array.

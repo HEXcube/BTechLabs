@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ enQueueRear(int)
+comment0.text=\r\n\ Method\ enQueueRear\r\n\ This\ method\ is\ basically\ insertLast()\r\n\ @param\ data-\ the\ data\ to\ be\ added\ to\ queue\r\n
+comment1.params=
+comment1.target=void\ deQueueFront()
+comment1.text=\r\n\ Method\ deQueueFront\r\n\ This\ method\ is\ basically\ deleteFirst()\r\n
+comment2.params=data
+comment2.target=void\ enQueueFront(int)
+comment2.text=\r\n\ Method\ enQueueFront\r\n\ This\ method\ is\ basically\ insertFirst()\r\n\ @param\ data-\ the\ data\ to\ be\ added\ to\ queue\r\n
+comment3.params=
+comment3.target=void\ deQueueRear()
+comment3.text=\r\n\ Method\ deQueueRear\r\n\ This\ method\ is\ basically\ deleteLast()\r\n
+comment4.params=
+comment4.target=void\ displayQueue()
+numComments=5

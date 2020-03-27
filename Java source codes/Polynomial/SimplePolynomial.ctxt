@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=term
+comment0.target=void\ insertTerm(Node)
+comment0.text=\r\n\ Method\ insertTerm\r\n\ This\ method\ is\ basically\ insertLast/enQueue\r\n\r\n\ @param\ temp\ -\ term\ to\ be\ added\r\n
+numComments=1

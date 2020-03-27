@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ enQueue(PriNode)
+comment0.text=\r\n\ enQueue\ -\ adds\ a\ node\ to\ the\ Priority\ queue\ in\ sorted\ order\r\n\r\n\ @param\ \ temp\ -\ node\ to\ be\ inserted\r\n
+comment1.params=temp
+comment1.target=void\ enQueue(PrioNode)
+comment1.text=\r\n\ Method\ enQueue\r\n\ This\ method\ is\ kept\ here\ only\ for\ the\ sake\ of\ implementing\r\n\ all\ methods\ in\ PriorityQueue\ interface.\r\n
+numComments=2

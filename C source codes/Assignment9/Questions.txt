@@ -1,0 +1,13 @@
+			Assignment : 9
+		   (1D Array Continues...)
+1.Search an element using binary search.Also find the position of the
+  element.
+2.Perform the operation A+B-(C*x),where A,B,C are arrays and x is a
+  constant.
+3.Read a set of elements into an array and print the prime and non
+  prime numbers separately.
+4.Read two arrays A and B.Find all the elements both in A and B.
+5.Find the repeated elements in an array.
+6.Insert an element into the first position of an array.
+7.Insert an element into the last position of an array.
+8.Insert an element into the specific position position of an array.

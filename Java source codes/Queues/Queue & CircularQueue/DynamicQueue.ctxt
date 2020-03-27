@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ enQueue(int)
+comment0.text=\r\n\ Method\ enQueue\r\n\ This\ method\ is\ basically\ insertLast()\r\n\ @param\ data-\ the\ data\ to\ be\ added\ to\ queue\r\n
+comment1.params=
+comment1.target=void\ deQueue()
+comment1.text=\r\n\ Method\ deQueue\r\n\ This\ method\ is\ basically\ deleteFirst()\r\n
+comment2.params=
+comment2.target=void\ displayQueue()
+numComments=3

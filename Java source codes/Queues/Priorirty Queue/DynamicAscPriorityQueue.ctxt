@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ enQueue(PrioNode)
+comment0.text=\r\n\ Method\ enQueue\r\n\ This\ method\ is\ performs\ ascending\ sorted\ insertion\r\n\r\n\ @param\ temp-\ the\ node\ to\ be\ enQueued\r\n
+comment1.params=
+comment1.target=void\ deQueue()
+comment1.text=\r\n\ Method\ deQueue\r\n\ This\ method\ is\ basically\ deleteFirst()\r\n
+comment2.params=
+comment2.target=void\ displayQueue()
+comment3.params=
+comment3.target=void\ createQueue()
+comment3.text=\r\n\ Method\ createQueue\r\n\ This\ method\ is\ kept\ here\ only\ for\ the\ sake\ of\ implementing\r\n\ all\ methods\ in\ PriorityQueue\ interface.\r\n
+comment4.params=temp
+comment4.target=void\ enQueue(PriNode)
+comment4.text=\r\n\ Method\ enQueue\r\n\ This\ method\ is\ kept\ here\ only\ for\ the\ sake\ of\ implementing\r\n\ all\ methods\ in\ PriorityQueue\ interface.\r\n
+numComments=5

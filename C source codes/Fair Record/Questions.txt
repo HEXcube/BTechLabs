@@ -1,0 +1,48 @@
+Lab Assignment 1
+Objective: Basic programs formatted and unformatted Input/output statements, escape sequences, Assignment operators and Arithmetic operators.
+1.	Program to convert Fahrenheit to Centigrade.
+2.	Program to convert a given number of days to months and days.
+Objective: Learn the decision making statement “if”
+3.	Program to display English alphabet in uppercase and lowercase.
+4.	Read the mark of a student (out of 100) and print the grade.
+             if mark>=90  grade A,  if   80<=mark <90 grade B,  if  70<= mark < 80 grade C
+             if 60<= mark <  70 grade D, if 50<= mark < 60 grade E,   else “failed”
+5.	Find the biggest of three numbers.
+6.	Find the roots of a quadratic equation (ax^2+bx+c).
+7.	Determine whether a year is leap year or not.
+Objective: Learn the iterative statement while
+8.	Find the sum of the series 2+4+8+….N, Read N
+9.	Print the smallest among a group of numbers.
+10.	Check whether a number is an Armstrong number.
+Objective: Learn the iterative statement do while
+11.	Print the multiplication table of a given number.
+12.	Program to display Fibonacci series.
+Objective: Learn the iterative statement for
+13.	Find the sum of the digits of a number.
+14.	Check whether the number is a palindrome number.
+15.	Program to display Floyd’s triangle.
+16.	Program to print the Prime numbers in a given range.
+17.	Program to input a statement and count the alphabets, digits, and special symbols.
+
+Objective: Learn the Array concept in C
+18.	Find the largest and second largest among set of numbers.
+19.	Program to sort an array of numbers. (Use selection sort, bubble sort).
+20.	Program to display magic square.
+Objective: Learn the String concept in C
+21.	Count the vowels, words and sentences in a paragraph.
+22.	Program to check whether a string is palindrome or not.
+23.	Simulate string length, copy, concatenation, reverse, replace and substring.
+24.	Program to sort n strings.
+Objective: Learn the user defined function concept in C
+25.	Program to evaluate nCr.
+26.	Program to find the largest in an array of n numbers.
+27.	Program to display the first N terms of Fibonacci series. (Use recursion).
+Objective: Learn the Structure and Union concept in C
+28.	Program to accept today’s date and print tomorrow’s date.
+29.	Program to print the Mark list of N students. (Use necessary details).
+Objective: Learn the Pointers concept in C
+30.	Program to sort n numbers.
+31.	Program to compare two strings (Use dynamic memory allocation).
+32.	Program to multiply two matrices. (Use dynamic memory allocation).
+Objective: Learn the Command line argument concept in C
+33.	Program to simulate a simple calculator.

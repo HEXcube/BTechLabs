@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=inFix
+comment0.target=java.lang.String\ toPostfix(java.lang.String)
+comment0.text=\r\n\ Method\ toPostfix\ toPostfix\ assumes\ operators\ to\ be\ right\ associative\r\n\ \r\n\ @param\ inFix\r\n\ \ \ \ \ \ \ \ \ \ \ \ string\r\n\ @return\ the\ postfix\ string\r\n
+comment1.params=op
+comment1.target=byte\ priority(char)
+comment2.params=postFix
+comment2.target=float\ evaluate(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ enQueueRear(int)
+comment1.params=
+comment1.target=void\ deQueueFront()
+comment2.params=data
+comment2.target=void\ enQueueFront(int)
+comment3.params=
+comment3.target=void\ deQueueRear()
+comment4.params=
+comment4.target=void\ createQueue()
+comment5.params=
+comment5.target=void\ displayQueue()
+numComments=6

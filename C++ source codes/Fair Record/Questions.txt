@@ -1,0 +1,24 @@
+﻿                    Fair Record Programs List
+
+    Write about C++ declarations and Control structures. (Maximum 2 pages)
+1. A worker takes a job for 31 days.His pay for the first day is
+   Rs.20.Each day's pay is twice what he gets in the previous day.
+   What will be the total pay for 31 days?
+2. Calculate the sum of individual digits of an entered number.
+    Write about C++ Memory handling. (Maximum 2 pages)
+3. Create a reference variable. Display values by changes in actual and reference variable.
+4. Allocate memory using new operator for 10 integers. Find the range of the given data.
+5. Use new operator to create string and find the length.
+6. Demonstrate pass by value, pass by reference and pass by address.
+7. Create a function to return the maximum of two numbers by reference.
+    C Write about C++ inline function, macro and function over loading. (Maximum 2 pages)
+8. Calculate square using inline function and macro.
+9. Find the area of rectangle, triangle and sphere. Use function overloading.
+    Write about C++ Class and Objects. (Maximum 2 pages)
+10.Use class String and count the number of vowels present in the entered string.
+11.Declare a class with three integer public data variables.Initialize and display them.
+12.Declare a class with private data member and a static member function. Read and display
+   the values.
+13.Use class integer and find the largest out of ten numbers.
+14.Define a local class. Also define a global variable with same name as that of member
+   variable. Read and display the data for global and data member.

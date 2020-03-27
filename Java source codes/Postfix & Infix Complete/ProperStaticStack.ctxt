@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=ProperStaticStack(int)
+comment1.params=data
+comment1.target=void\ push(int)
+comment2.params=
+comment2.target=int\ pop()
+comment3.params=
+comment3.target=int\ peek()
+comment4.params=
+comment4.target=boolean\ empty()
+numComments=5

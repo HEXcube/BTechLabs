@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createQueue()
+comment1.params=temp
+comment1.target=void\ enQueue(PriNode)
+comment2.params=temp
+comment2.target=void\ enQueue(PrioNode)
+comment3.params=
+comment3.target=void\ deQueue()
+comment4.params=
+comment4.target=void\ displayQueue()
+numComments=5

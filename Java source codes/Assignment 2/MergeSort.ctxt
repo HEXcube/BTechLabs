@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=Arr
+comment0.target=void\ sort(int[])
+comment0.text=\r\n\ sort()\ method\r\n\ \r\n\ @param\ \ Arr\ -\ the\ array\ to\ be\ sorted\r\n\ @return\ \ nothing\r\n
+comment1.params=Arr\ left\ right
+comment1.target=void\ mergeSort(int[],\ int,\ int)
+comment1.text=\r\n\ mergeSort()\ method\r\n\r\n\ @param\ \ Arr\ -\ the\ array\ to\ be\ sorted\r\n\ @param\ \ left\ -\ lower\ bound\ of\ array\r\n\ @param\ \ right\ -\ upper\ bound\ of\ array\r\n\ @return\ \ nothing\r\n
+comment2.params=Arr\ low\ mid\ high
+comment2.target=void\ merge(int[],\ int,\ int,\ int)
+comment2.text=\r\n\ merge()\ method\r\n\r\n\ @param\ \ Arr\ -\ the\ array\ to\ be\ sorted\r\n\ @param\ \ low\ -\ lower\ bound\ of\ array\r\n\ @param\ \ mid\ -\ middle\ index\ of\ array\r\n\ @param\ \ high\ -\ upper\ bound\ of\ array\r\n\ @return\ \ nothing\r\n
+numComments=3

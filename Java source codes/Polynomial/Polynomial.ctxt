@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ insertTerm(Node)
+comment0.text=\r\n\ Method\ insertTerm\r\n\ insertTerm()\ is\ descending\ sorted\ enQueue\ with\ \r\n\ expo<-priority\ &&\ coef<-data\r\n\ \r\n\ @param\ temp-\ the\ node\ to\ be\ enQueued\r\n
+comment1.params=
+comment1.target=void\ acceptPolynomial()
+comment2.params=
+comment2.target=void\ displayPolynomial()
+comment3.params=X
+comment3.target=Polynomial\ addPolynomial(Polynomial)
+numComments=4

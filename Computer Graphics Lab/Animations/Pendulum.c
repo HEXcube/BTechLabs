@@ -1,0 +1,79 @@
+#include<stdio.h>
+#include<conio.h>
+#include<graphics.h>
+#include<math.h>
+  void pendulum()
+  {
+   int x1=300,y1=100,x2=300,y2=230;
+   int x,y,t=20;
+   double th;
+    while(!kbhit())
+   {
+   for(t=0;t<30;t+=3)
+    {
+    line(250,100,350,100);
+    th=t*3.142857/180.0;
+    x=x1+(x2-x1)*cos(th)-(y2-y1)*sin(th);
+    y=y1+(x2-x1)*sin(th)+(y2-y1)*cos(th);
+    setcolor(BLUE);
+    line(x1,y1,x,y);
+    circle(x,y+5,5);
+    delay(100);
+    cleardevice();
+   }
+   x2=x;
+   y2=y;
+   for(t=0;t<30;t+=3)
+    {
+    line(250,100,350,100);
+    th=-t*3.142857/180.0;
+    x=x1+(x2-x1)*cos(th)-(y2-y1)*sin(th);
+    y=y1+(x2-x1)*sin(th)+(y2-y1)*cos(th);
+    setcolor(BLUE);
+    line(x1,y1,x,y);
+    circle(x,y+5,5);
+    delay(100);
+    cleardevice();
+   }
+   x2=x;
+   y2=y;
+    for(t=0;t<30;t+=3)
+    {
+    line(250,100,350,100);
+    th=-t*3.142857/180.0;
+    x=x1+(x2-x1)*cos(th)-(y2-y1)*sin(th);
+    y=y1+(x2-x1)*sin(th)+(y2-y1)*cos(th);
+    setcolor(BLUE);
+    line(x1,y1,x,y);
+    circle(x,y+5,5);
+    delay(100);
+    cleardevice();
+   }
+   x2=x;
+   y2=y;
+    for(t=0;t<30;t+=3)
+    {
+    line(250,100,350,100);
+    th=t*3.142857/180.0;
+    x=x1+(x2-x1)*cos(th)-(y2-y1)*sin(th);
+    y=y1+(x2-x1)*sin(th)+(y2-y1)*cos(th);
+    setcolor(BLUE);
+    line(x1,y1,x,y);
+    circle(x,y+5,5);
+    delay(100);
+    cleardevice();
+   }
+   x2=x;
+   y2=y;
+   }
+  }
+void main()
+ {
+   int gd=DETECT,gm;
+   initgraph(&gd,&gm,"c:\\tc\\bgi");
+   rectangle(1,1,639,479);
+   rectangle(5,5,634,475);
+   pendulum();
+  getch();
+  closegraph();
+  }

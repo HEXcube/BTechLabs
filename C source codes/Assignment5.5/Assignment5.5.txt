@@ -1,0 +1,2 @@
+All programs of assignment 5.5 are 'do while' adaptations of assignment5
+while programs.
