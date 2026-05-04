@@ -43,10 +43,10 @@ void main()
 }
 
 /*OUTPUT
-Enter name  : HEXcube
+Enter name  : Rohan Villoth
 
 Enter  age  : 18
 
- Name  : HEXcube
+ Name  : Rohan Villoth
  Age   : 18 Years
 */

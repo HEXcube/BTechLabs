@@ -53,7 +53,7 @@ void main()
 }
 
 /*OUTPUT
-Enter name  : HEXcube
+Enter name  : Rohan Villoth
 
 Enter  age  : 18
 
@@ -61,7 +61,7 @@ Enter height(in feet): 5.11
 
 Enter weight(in Kg): 56
 
- Name  : HEXcube
+ Name  : Rohan Villoth
  Age   : 18 Years
  Height: 5.11 Feets
  Weight: 56 Kg
